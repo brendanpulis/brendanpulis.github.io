@@ -70,7 +70,7 @@ const config = {
         title: 'Brendan Pulis',
         items: [
           {
-            to: '/docs', 
+            href: '/docs', 
             label: 'Blog', 
             position: 'left'
           },
@@ -102,16 +102,6 @@ const config = {
           },
           {
             title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
           },
         ],
         copyright: `Built with Docusaurus.`,

@@ -80,13 +80,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/brendanpulis',
+            href: 'https://www.linkedin.com/in/brendanpulis/',
             label: 'LinkedIn',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/brendanpulis',
-            label: 'Bluesky',
             position: 'right',
           },
         ],
